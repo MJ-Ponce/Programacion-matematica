@@ -1,6 +1,6 @@
 import math
 import time
-dn = 3
+dn = 3 #probando git
 ts = 0
 movimientos = 0
 mundo = [[0,0,0],[1,0,0],[2,0,0],[3,0,0]]
